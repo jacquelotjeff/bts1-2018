@@ -3,3 +3,4 @@
 ### Apprentissage de Git
 
 - [ ] Commandes simples acquises
+- [ ] Commandes avancées
