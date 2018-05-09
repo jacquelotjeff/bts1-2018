@@ -2,4 +2,4 @@
 
 Bonjour
 
-On est chez CASTRO, y'a tous se qu'il faut.
+On est chez CASTRO, y'a tout ce qu'il faut.
