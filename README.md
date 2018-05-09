@@ -4,3 +4,7 @@
 
 - [ ] Commandes simples acquises
 - [ ] Commandes avancées
+
+Ludovic 
+Anne-France
+Célia
