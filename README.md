@@ -1,10 +1,10 @@
-## Cours BTS 1 Git 2018
+# Cours BTS 1 Git 2018
 
-### Apprentissage de Git.
+## Apprentissage de Git.
 
-- [ ] Commandes simples acquises
+- [x] Commandes simples acquises
 
 
-### Fonctionnalités
+## Fonctionnalités
 
-- [ ] Ajout de l'inscription
+- [x] Ajout de l'inscription
