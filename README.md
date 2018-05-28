@@ -2,4 +2,4 @@
 
 ### Apprentissage de Git
 
-- [ ] Commandes simples acquises
+- [x] Commandes simples acquises ;)
