@@ -3,3 +3,8 @@
 ### Apprentissage de Git
 
 - [ ] Commandes simples acquises
+
+
+### Fonctionnalités
+
+- [ ] Ajout de l'inscription
